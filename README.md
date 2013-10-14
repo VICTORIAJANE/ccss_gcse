@@ -1,2 +1,2 @@
-ccss_gcse
-=========
+Example C program for OCR GCSE Computing
+========================================
